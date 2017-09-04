@@ -15,7 +15,7 @@ _advanced: False_
 ##Description
 
 
-ofTTFCharacter contain a vectorr with all the ofTTFContour.
+An ofTTFCharacter contains a vector with all the ofTTFContour.
 
 
 
